@@ -1,2 +1,22 @@
-# Chat-system
-This chat system is most important for us because we can chat each other,As we know that we need to communicate in every company for the better performance
+# himalchatapp (himalchatapp)
+
+A Quasar Framework app
+
+## Install the dependencies
+```bash
+npm install
+```
+
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+quasar dev
+```
+
+
+### Build the app for production
+```bash
+quasar build
+```
+
+### Customize the configuration
+See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
